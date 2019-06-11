@@ -1,0 +1,24 @@
+.calendario{
+    width: 400px;
+    height: 600px;
+    border-width: 3px;
+    border-style: solid;
+    margin: 0 auto;
+}
+.titulos{
+    height: 50px;
+    border-width: 3px;
+    border-style:solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.eventos{
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+    margin: 0 auto;
+}
+.texto{
+
+}
